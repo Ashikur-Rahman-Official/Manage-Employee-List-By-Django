@@ -1,1 +1,1 @@
-# Django-Project-For-Employee-List
+# Manage-Employee-List-By-Django
