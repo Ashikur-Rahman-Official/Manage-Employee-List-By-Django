@@ -73,3 +73,4 @@ def delete_employee(request, id):
         return redirect('employees')
     return render(request, 'confirm_delete.html', {'employee': employee})
 
+
